@@ -1,0 +1,598 @@
+2019-05-26T20:11:10.982+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:11:12.029+03:00,alyokhina-o,IdeState,NoProject,,,,,-1,-1,
+2019-05-26T20:11:13.030+03:00,alyokhina-o,IdeState,NoProject,,,,,-1,-1,
+2019-05-26T20:11:14.031+03:00,alyokhina-o,IdeState,NoProject,,,,,-1,-1,
+2019-05-26T20:11:15.049+03:00,alyokhina-o,IdeState,Active,_1,Popup,,,-1,-1,Default
+2019-05-26T20:11:16.426+03:00,alyokhina-o,IdeState,Active,_1,Popup,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,,15,38,Default
+2019-05-26T20:11:19.508+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,,15,38,Default
+2019-05-26T20:11:20.515+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,,15,38,Default
+2019-05-26T20:11:21.594+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,15,38,Default task
+2019-05-26T20:11:22.613+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,15,38,Default task
+2019-05-26T20:11:23.616+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,14,46,Default task
+2019-05-26T20:11:24.910+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,13,48,Default task
+2019-05-26T20:11:25.912+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,13,48,Default task
+2019-05-26T20:11:26.453+03:00,alyokhina-o,Action,EditorCopy,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,13,48,Default task
+2019-05-26T20:11:27.019+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,13,48,Default task
+2019-05-26T20:11:27.081+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,13,48,Default task
+2019-05-26T20:11:27.444+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,16,0,Default task
+2019-05-26T20:11:27.553+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,19,0,Default task
+2019-05-26T20:11:27.722+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,22,0,Default task
+2019-05-26T20:11:27.949+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,25,0,Default task
+2019-05-26T20:11:28.031+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,28,0,Default task
+2019-05-26T20:11:28.431+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,28,0,Default task
+2019-05-26T20:11:28.512+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,31,0,Default task
+2019-05-26T20:11:28.598+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,34,0,Default task
+2019-05-26T20:11:28.683+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,37,0,Default task
+2019-05-26T20:11:28.780+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,40,0,Default task
+2019-05-26T20:11:28.872+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,43,0,Default task
+2019-05-26T20:11:28.964+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,46,0,Default task
+2019-05-26T20:11:29.034+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,49,0,Default task
+2019-05-26T20:11:29.091+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,52,0,Default task
+2019-05-26T20:11:29.258+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,52,0,Default task
+2019-05-26T20:11:29.295+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,55,0,Default task
+2019-05-26T20:11:29.343+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,58,0,Default task
+2019-05-26T20:11:29.403+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,61,0,Default task
+2019-05-26T20:11:29.468+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,64,0,Default task
+2019-05-26T20:11:29.533+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,67,0,Default task
+2019-05-26T20:11:29.726+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,70,0,Default task
+2019-05-26T20:11:29.856+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,73,0,Default task
+2019-05-26T20:11:29.907+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,76,0,Default task
+2019-05-26T20:11:29.937+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,79,0,Default task
+2019-05-26T20:11:29.989+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,82,0,Default task
+2019-05-26T20:11:30.063+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,85,0,Default task
+2019-05-26T20:11:30.115+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,88,0,Default task
+2019-05-26T20:11:30.151+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,88,0,Default task
+2019-05-26T20:11:30.231+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,91,0,Default task
+2019-05-26T20:11:30.303+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,94,0,Default task
+2019-05-26T20:11:30.389+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,97,0,Default task
+2019-05-26T20:11:30.483+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,100,0,Default task
+2019-05-26T20:11:30.564+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,103,0,Default task
+2019-05-26T20:11:30.648+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,106,0,Default task
+2019-05-26T20:11:30.733+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,109,0,Default task
+2019-05-26T20:11:30.883+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,112,0,Default task
+2019-05-26T20:11:30.948+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,115,0,Default task
+2019-05-26T20:11:31.016+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,118,0,Default task
+2019-05-26T20:11:31.110+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,121,0,Default task
+2019-05-26T20:11:31.164+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,124,0,Default task
+2019-05-26T20:11:31.212+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,124,0,Default task
+2019-05-26T20:11:31.407+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,127,0,Default task
+2019-05-26T20:11:31.452+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,130,0,Default task
+2019-05-26T20:11:31.512+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,133,0,Default task
+2019-05-26T20:11:31.569+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,136,0,Default task
+2019-05-26T20:11:31.622+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,139,0,Default task
+2019-05-26T20:11:31.677+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,142,0,Default task
+2019-05-26T20:11:31.791+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,145,0,Default task
+2019-05-26T20:11:32.171+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,148,0,Default task
+2019-05-26T20:11:33.175+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,148,0,Default task
+2019-05-26T20:11:34.177+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,148,0,Default task
+2019-05-26T20:11:35.181+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,47,25,Default task
+2019-05-26T20:11:36.183+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,77,25,Default task
+2019-05-26T20:11:37.197+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,107,25,Default task
+2019-05-26T20:11:38.201+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,134,25,Default task
+2019-05-26T20:11:39.206+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,,150,1,Default task
+2019-05-26T20:11:40.207+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,147,40,Default task
+2019-05-26T20:11:40.514+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,147,40,Default task
+2019-05-26T20:11:41.208+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,18,18,Default task
+2019-05-26T20:11:41.918+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,18,18,Default task
+2019-05-26T20:11:42.211+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,18,17,Default task
+2019-05-26T20:11:42.342+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,18,17,Default task
+2019-05-26T20:11:42.846+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,18,16,Default task
+2019-05-26T20:11:42.923+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,18,15,Default task
+2019-05-26T20:11:43.009+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,18,14,Default task
+2019-05-26T20:11:43.095+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,18,13,Default task
+2019-05-26T20:11:43.181+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,18,12,Default task
+2019-05-26T20:11:43.212+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,18,11,Default task
+2019-05-26T20:11:43.269+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,18,11,Default task
+2019-05-26T20:11:43.351+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,18,10,Default task
+2019-05-26T20:11:43.436+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,18,9,Default task
+2019-05-26T20:11:43.520+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,18,8,Default task
+2019-05-26T20:11:44.214+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,17,59,Default task
+2019-05-26T20:11:45.215+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,17,59,Default task
+2019-05-26T20:11:46.216+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,15,0,Default task
+2019-05-26T20:11:46.616+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,15,0,Default task
+2019-05-26T20:11:46.743+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,15,0,Default task
+2019-05-26T20:11:47.227+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/Main.java,Main::main,14,59,Default task
+2019-05-26T20:11:48.228+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,83,50,Default task
+2019-05-26T20:11:49.118+03:00,alyokhina-o,Action,EditorEnter,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,83,50,Default task
+2019-05-26T20:11:50.261+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,84,8,Default task
+2019-05-26T20:11:50.268+03:00,alyokhina-o,Action,EditorEnter,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,84,8,Default task
+2019-05-26T20:11:50.279+03:00,alyokhina-o,Action,EditorEnter,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,85,8,Default task
+2019-05-26T20:11:50.287+03:00,alyokhina-o,Action,EditorEnter,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,,86,8,Default task
+2019-05-26T20:11:50.296+03:00,alyokhina-o,Action,EditorEnter,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,,87,8,Default task
+2019-05-26T20:11:51.263+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,84,8,Default task
+2019-05-26T20:11:52.265+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,64,47,Default task
+2019-05-26T20:11:52.345+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,64,47,Default task
+2019-05-26T20:11:53.266+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,64,47,Default task
+2019-05-26T20:11:54.266+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,,0,16,Default task
+2019-05-26T20:11:55.271+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,3,31,Default task
+2019-05-26T20:11:55.703+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,3,31,Default task
+2019-05-26T20:11:56.274+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,3,31,Default task
+2019-05-26T20:11:57.313+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,9,Default task
+2019-05-26T20:11:58.028+03:00,alyokhina-o,Action,EditorChooseLookupItem,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,12,Default task
+2019-05-26T20:11:58.317+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,27,Default task
+2019-05-26T20:11:59.326+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,37,Default task
+2019-05-26T20:12:00.331+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,44,Default task
+2019-05-26T20:12:01.333+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,44,Default task
+2019-05-26T20:12:02.335+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,44,Default task
+2019-05-26T20:12:03.111+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,37,Default task
+2019-05-26T20:12:03.235+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,37,Default task
+2019-05-26T20:12:03.337+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,36,Default task
+2019-05-26T20:12:04.338+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,36,Default task
+2019-05-26T20:12:05.341+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,8,Default task
+2019-05-26T20:12:06.123+03:00,alyokhina-o,Action,EditorCopy,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,8,Default task
+2019-05-26T20:12:06.342+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,8,Default task
+2019-05-26T20:12:07.346+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,39,Default task
+2019-05-26T20:12:08.347+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,3,31,Default task
+2019-05-26T20:12:09.350+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,8,8,Default task
+2019-05-26T20:12:10.351+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,4,0,Default task
+2019-05-26T20:12:11.353+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,3,31,Default task
+2019-05-26T20:12:12.356+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,4,0,Default task
+2019-05-26T20:12:13.360+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,4,0,Default task
+2019-05-26T20:12:14.174+03:00,alyokhina-o,Action,EditorCopy,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,4,0,Default task
+2019-05-26T20:12:14.365+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,4,0,Default task
+2019-05-26T20:12:14.571+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,4,0,Default task
+2019-05-26T20:12:14.802+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,39,Default task
+2019-05-26T20:12:14.982+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,6,39,Default task
+2019-05-26T20:12:15.148+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,7,39,Default task
+2019-05-26T20:12:15.367+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,8,39,Default task
+2019-05-26T20:12:15.652+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,8,39,Default task
+2019-05-26T20:12:15.736+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,9,39,Default task
+2019-05-26T20:12:15.819+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,10,39,Default task
+2019-05-26T20:12:15.903+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,11,39,Default task
+2019-05-26T20:12:15.997+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,12,39,Default task
+2019-05-26T20:12:16.072+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,13,39,Default task
+2019-05-26T20:12:16.156+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,14,39,Default task
+2019-05-26T20:12:16.242+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,15,39,Default task
+2019-05-26T20:12:16.335+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,16,39,Default task
+2019-05-26T20:12:16.368+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,17,39,Default task
+2019-05-26T20:12:16.414+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,17,39,Default task
+2019-05-26T20:12:16.496+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,18,39,Default task
+2019-05-26T20:12:16.581+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,19,39,Default task
+2019-05-26T20:12:16.664+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,20,39,Default task
+2019-05-26T20:12:16.753+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,21,39,Default task
+2019-05-26T20:12:16.840+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,22,39,Default task
+2019-05-26T20:12:16.927+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,23,39,Default task
+2019-05-26T20:12:17.014+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,24,39,Default task
+2019-05-26T20:12:17.098+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,25,39,Default task
+2019-05-26T20:12:17.179+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,26,39,Default task
+2019-05-26T20:12:17.263+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,27,39,Default task
+2019-05-26T20:12:17.356+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,28,39,Default task
+2019-05-26T20:12:17.376+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,29,39,Default task
+2019-05-26T20:12:17.434+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,29,39,Default task
+2019-05-26T20:12:17.519+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,30,39,Default task
+2019-05-26T20:12:17.602+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,31,39,Default task
+2019-05-26T20:12:17.705+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,32,39,Default task
+2019-05-26T20:12:17.771+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,33,39,Default task
+2019-05-26T20:12:17.857+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,34,39,Default task
+2019-05-26T20:12:17.942+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,35,39,Default task
+2019-05-26T20:12:18.039+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,36,39,Default task
+2019-05-26T20:12:18.115+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,37,39,Default task
+2019-05-26T20:12:18.202+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,38,39,Default task
+2019-05-26T20:12:18.286+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,39,39,Default task
+2019-05-26T20:12:18.381+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,40,39,Default task
+2019-05-26T20:12:18.395+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,41,39,Default task
+2019-05-26T20:12:18.454+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,41,39,Default task
+2019-05-26T20:12:18.539+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,42,39,Default task
+2019-05-26T20:12:18.626+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,43,39,Default task
+2019-05-26T20:12:18.722+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,44,39,Default task
+2019-05-26T20:12:18.798+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,45,39,Default task
+2019-05-26T20:12:18.881+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,46,39,Default task
+2019-05-26T20:12:18.966+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,47,39,Default task
+2019-05-26T20:12:19.085+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,48,39,Default task
+2019-05-26T20:12:19.141+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,49,39,Default task
+2019-05-26T20:12:19.226+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,50,39,Default task
+2019-05-26T20:12:19.312+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,51,39,Default task
+2019-05-26T20:12:19.399+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,52,39,Default task
+2019-05-26T20:12:19.400+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,52,39,Default task
+2019-05-26T20:12:19.489+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,53,39,Default task
+2019-05-26T20:12:19.569+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,54,39,Default task
+2019-05-26T20:12:19.660+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,55,39,Default task
+2019-05-26T20:12:19.759+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,56,39,Default task
+2019-05-26T20:12:19.827+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,57,39,Default task
+2019-05-26T20:12:19.909+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,58,39,Default task
+2019-05-26T20:12:19.992+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,59,39,Default task
+2019-05-26T20:12:20.083+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,60,39,Default task
+2019-05-26T20:12:20.161+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,61,39,Default task
+2019-05-26T20:12:20.246+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,62,39,Default task
+2019-05-26T20:12:20.335+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,63,39,Default task
+2019-05-26T20:12:20.410+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,64,39,Default task
+2019-05-26T20:12:20.429+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,64,39,Default task
+2019-05-26T20:12:20.506+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,65,39,Default task
+2019-05-26T20:12:20.587+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,66,39,Default task
+2019-05-26T20:12:20.671+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,67,39,Default task
+2019-05-26T20:12:20.804+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,68,39,Default task
+2019-05-26T20:12:20.847+03:00,alyokhina-o,Action,EditorPaste,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,69,39,Default task
+2019-05-26T20:12:21.413+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:22.415+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:23.417+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:24.419+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:25.421+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:26.422+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:27.423+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:28.425+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:29.428+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:30.434+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:31.439+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:32.442+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:33.443+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:34.447+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:35.449+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:36.455+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:37.459+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:38.464+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:39.467+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:40.468+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:41.471+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:42.476+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:43.477+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:44.478+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:45.481+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:46.485+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:47.491+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:48.493+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:49.499+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:50.505+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:51.509+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:52.512+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:53.513+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:54.515+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:55.518+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:56.523+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:57.529+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:58.533+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:12:59.536+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:00.537+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:01.539+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:02.544+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:03.544+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:04.549+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:05.551+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:06.555+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:07.560+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:08.566+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:09.567+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:10.572+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:11.575+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:12.577+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:13.581+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:14.586+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:15.591+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:16.595+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:17.599+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:18.605+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:19.611+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:20.616+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:21.617+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:22.620+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:23.626+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:24.630+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:25.633+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:26.637+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:27.643+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:28.649+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:29.654+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:30.656+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:31.662+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:32.665+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:33.667+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:34.671+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:35.672+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:36.678+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:37.679+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:38.684+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:39.690+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:40.694+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:41.695+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:42.698+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:43.702+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:44.707+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:45.712+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:46.714+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:47.719+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:48.723+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:49.728+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:50.731+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:51.734+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:52.736+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:53.738+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:54.738+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:55.743+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:56.747+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:57.749+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:58.754+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:13:59.760+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:00.764+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:01.767+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:02.771+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:03.773+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:04.779+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:05.780+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:06.785+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:07.789+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:08.794+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:09.799+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:10.805+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:11.806+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:12.811+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:13.815+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:14.818+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:15.824+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:16.827+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:17.832+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:18.837+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:19.842+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:20.847+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:21.853+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:22.854+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:23.857+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:24.859+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:25.864+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:26.868+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:27.869+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:28.874+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:29.889+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:30.894+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:31.895+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:32.897+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:33.900+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:34.902+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:35.905+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:36.908+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:14:38.925+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:39.930+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:40.932+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:41.937+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:42.942+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:43.947+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:44.948+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:45.950+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:46.951+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:47.957+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:48.962+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:49.967+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:50.968+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:51.971+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:52.975+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:53.979+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:54.983+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:55.985+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:56.989+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:57.994+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:58.996+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:14:59.997+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:00.999+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:02.005+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:03.006+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:04.008+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:05.011+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:06.017+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:07.020+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:08.023+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:09.025+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:10.034+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:11.039+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:12.044+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:13.045+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:14.048+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:15:15.049+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:15:16.050+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:15:17.053+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,70,39,Default task
+2019-05-26T20:15:18.060+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,38,32,Default task
+2019-05-26T20:15:18.652+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,38,31,Default task
+2019-05-26T20:15:19.074+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,38,31,Default task
+2019-05-26T20:15:20.077+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,7,31,Default task
+2019-05-26T20:15:20.963+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,20,35,Default task
+2019-05-26T20:15:21.080+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:22.083+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:23.084+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,32,Default task
+2019-05-26T20:15:24.088+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,32,Default task
+2019-05-26T20:15:24.293+03:00,alyokhina-o,Action,EditorBackSpace,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,32,Default task
+2019-05-26T20:15:25.090+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:25.529+03:00,alyokhina-o,Action,activitytracker.CodeWritingProcess,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:26.093+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:27.095+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:27.991+03:00,alyokhina-o,Action,EditorPaste,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:28.099+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:29.100+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:30.104+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:31.106+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:32.109+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:33.113+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:34.118+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:35.121+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:36.125+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:37.126+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:15:38.127+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:39.128+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:39.538+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:40.040+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:40.125+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:40.132+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:40.210+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:40.297+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:40.384+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:40.469+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:40.558+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:40.646+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:40.730+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:40.818+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:40.905+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:40.989+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:41.077+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:41.133+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:41.161+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:41.246+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:41.331+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:41.414+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:41.504+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:41.589+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:41.674+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:41.761+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:41.854+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:41.930+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:42.016+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:42.098+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:42.134+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:42.181+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:42.267+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:42.355+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:42.441+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:42.527+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:42.614+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:42.698+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:42.785+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:42.869+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:42.956+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:43.044+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:43.130+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:43.141+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:43.217+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:43.302+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:43.396+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:43.475+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:43.562+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:44.142+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:44.182+03:00,alyokhina-o,Action,EditorPaste,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:45.143+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:45.853+03:00,alyokhina-o,Action,EditorBackSpace,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:46.144+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:15:47.145+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:16:11.387+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:16:12.392+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:16:13.398+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:16:14.399+03:00,alyokhina-o,IdeState,Active,_1,Dialog,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:16:15.400+03:00,alyokhina-o,IdeState,Active,_1,Editor,/Users/alyokhina-o/IdeaProjects/_1/src/main/java/E.java,E::bar,5,31,Default task
+2019-05-26T20:16:16.400+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:17.402+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:18.402+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:19.406+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:20.411+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:21.411+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:22.412+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:23.413+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:24.414+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:25.418+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:26.423+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:27.428+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:28.433+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:29.434+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:30.434+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:31.436+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:32.441+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:33.445+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:34.450+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:35.452+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:36.457+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:37.461+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:38.466+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:39.470+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:40.475+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:41.476+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:42.477+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:43.477+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:44.479+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:45.482+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:46.484+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:47.488+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:48.488+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:49.490+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:50.490+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:51.492+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:52.493+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:53.496+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:54.499+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:55.502+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:56.505+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:57.506+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:58.511+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:16:59.516+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:00.519+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:01.522+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:02.526+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:03.526+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:04.527+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:05.531+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:06.536+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:07.537+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:08.539+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:09.541+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:10.544+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:11.548+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:12.549+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:13.550+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:14.551+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:15.554+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:16.557+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:17.561+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:18.565+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:19.569+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:20.574+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:21.575+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:22.579+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:23.582+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:24.584+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:25.589+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:26.592+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:27.595+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:28.599+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:29.603+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:30.608+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:31.613+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:32.614+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:33.619+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:34.625+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:35.628+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:36.631+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:37.634+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:38.636+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:39.639+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:40.644+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:41.648+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:42.649+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:43.649+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:44.652+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:45.653+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:46.656+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:47.660+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:48.660+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:49.664+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:50.668+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:51.670+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:52.674+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:53.677+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:54.682+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:55.684+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:56.689+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:57.694+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:58.695+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:17:59.700+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:00.704+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:01.706+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:02.707+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:03.711+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:04.714+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:05.719+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:06.721+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:07.722+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:08.725+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:09.730+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:10.734+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:11.735+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:12.739+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:13.743+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:14.744+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:15.749+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:16.753+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:17.753+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:18.755+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:19.755+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:20.758+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:21.761+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:22.761+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:23.762+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:24.766+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:25.768+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:26.773+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:27.777+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:28.781+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,
+2019-05-26T20:18:29.785+03:00,alyokhina-o,IdeState,Inactive,,,,,-1,-1,

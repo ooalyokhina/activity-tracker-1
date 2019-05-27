@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/IdeaProjects/_1" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/IdeaProjects/_1" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/_1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-172.3757.29" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558890674072" />
+              <option name="buildTimestamp" value="1502221929468" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

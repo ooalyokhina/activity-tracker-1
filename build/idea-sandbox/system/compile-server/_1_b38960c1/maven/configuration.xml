@@ -1,0 +1,59 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="_1">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>1</groupId>
+            <artifactId>1</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId />
+        <directory>/Users/alyokhina-o/IdeaProjects/_1</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogYWx5b2toaW5hLW8NCkNyZWF0ZWQtQnk6IEludGVsbGlKIElERUENCkJ1aWxkLUpkazogMS44LjBfMTkxDQoNCg==</manifest>
+        <classpath />
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="1" />
+          <entry key="build.directory" value="/Users/alyokhina-o/IdeaProjects/_1/target" />
+          <entry key="build.finalName" value="1-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="/Users/alyokhina-o/IdeaProjects/_1/target/classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.testOutputDirectory" value="/Users/alyokhina-o/IdeaProjects/_1/target/test-classes" />
+          <entry key="groupId" value="1" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_191&quot;" />
+          <entry key="settings.localRepository" value="/Users/alyokhina-o/.m2/repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>/Users/alyokhina-o/IdeaProjects/_1/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>/Users/alyokhina-o/IdeaProjects/_1/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>

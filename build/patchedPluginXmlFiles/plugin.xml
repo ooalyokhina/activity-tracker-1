@@ -1,0 +1,33 @@
+<idea-plugin>
+  <id>Activity Tracker</id>
+  <name>Activity Tracker</name>
+  <version>0.1.9 beta</version>
+  <description>
+        This is a proof-of-concept plugin for tracking and recording IDE user activity.
+        Currently the main feature is recording user activity into csv files.
+        To use the plugin see "Activity tracker" widget in IDE statusbar.&lt;br/&gt;&lt;br/&gt;
+
+        The main idea is to mine recorded data for interesting user or project-specific insights,
+        e.g. time spent in each part of project or editing/browsing ratio.
+        If you happen to use the plugin and find interesting way to analyze data, get in touch on
+        &lt;a href="https://twitter.com/dmitrykandalov"&gt;twitter&lt;/a&gt; or
+        &lt;a href="https://github.com/dkandalov/activity-tracker/issues"&gt;GitHub&lt;/a&gt;.
+        &lt;br/&gt;&lt;br/&gt;
+
+        For more details see &lt;a href="https://github.com/dkandalov/activity-tracker"&gt;project page on github&lt;/a&gt;.
+    </description>
+  <idea-version since-build="145.0"/>
+  <depends>com.intellij.modules.platform</depends>
+  <depends optional="true">com.intellij.tasks</depends>
+  <application-components>
+    <component>
+      <implementation-class>activitytracker.AppComponent</implementation-class>
+    </component>
+  </application-components>
+  <actions>
+    <action id="activitytracker.CodeWritingProcess" class="activitytracker.CodeWritingProcess" text="Show code writing process" description="Show code writing process">
+      <keyboard-shortcut first-keystroke="control alt S" keymap="$default"/>
+      <add-to-group group-id="ToolsMenu" anchor="first"/>
+    </action>
+  </actions>
+</idea-plugin>

@@ -1,0 +1,11 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.2880.1800@192dpi" x="1080" y="332" />
+    <location key="NewModule_or_Project.wizard.0.0.2880.1800@192dpi" x="764" y="130" />
+    <location key="WELCOME_SCREEN.0.0.2880.1800@192dpi" x="1504" y="806" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2880.1800@192dpi" x="932" y="622" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.2880.1800@192dpi" x="672" y="290" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.2880.1800@192dpi" x="1132" y="760" />
+    <location key="IdeErrosDialog.0.0.2880.1800@192dpi" x="650" y="556" />
+  </component>
+</application>

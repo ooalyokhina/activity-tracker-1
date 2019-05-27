@@ -4,14 +4,13 @@ import activitytracker.TrackerEvent.Type.Duration
 import activitytracker.TrackerEvent.Type.IdeState
 import activitytracker.liveplugin.*
 import activitytracker.liveplugin.VcsActions.Companion.registerVcsListener
+import activitytracker.log.Logger
+import activitytracker.model.Diffs
 import com.intellij.concurrency.JobScheduler
 import com.intellij.ide.IdeEventQueue
 import com.intellij.notification.NotificationType
 import com.intellij.openapi.Disposable
-import com.intellij.openapi.actionSystem.ActionManager
-import com.intellij.openapi.actionSystem.AnAction
-import com.intellij.openapi.actionSystem.AnActionEvent
-import com.intellij.openapi.actionSystem.DataContext
+import com.intellij.openapi.actionSystem.*
 import com.intellij.openapi.actionSystem.ex.AnActionListener
 import com.intellij.openapi.compiler.CompilationStatusListener
 import com.intellij.openapi.compiler.CompileContext
@@ -40,18 +39,18 @@ import java.awt.event.MouseWheelEvent
 import java.lang.System.currentTimeMillis
 import java.util.concurrent.TimeUnit.MILLISECONDS
 import javax.swing.JDialog
+import kotlin.collections.HashMap
 
 class ActivityTracker(
-    private val trackerLog: TrackerLog,
-    private val parentDisposable: Disposable,
-    private val logTrackerCallDuration: Boolean = false
+        private val trackerLog: TrackerLog,
+        private val parentDisposable: Disposable,
+        private val logTrackerCallDuration: Boolean = false
 ) {
     private var trackingDisposable: Disposable? = null
     private val trackerCallDurations: MutableList<Long> = mutableListOf()
     private var hasPsiClasses: Boolean? = null
     private var hasTaskManager: Boolean? = null
-
-
+    private var curCode = ""
     fun startTracking(config: Config) {
         if (trackingDisposable != null) return
         trackingDisposable = newDisposable(parentDisposable)
@@ -92,7 +91,6 @@ class ActivityTracker(
 
     private fun trackerCallDurationsEvent(): TrackerEvent? {
         if (!logTrackerCallDuration || trackerCallDurations.size < 10) return null
-
         val time = DateTime.now()
         val userName = SystemProperties.getUserName()
         val durations = trackerCallDurations.joinToString(",")
@@ -133,14 +131,25 @@ class ActivityTracker(
         val actionManager = ActionManager.getInstance()
         actionManager.addAnActionListener(object : AnActionListener {
             override fun beforeActionPerformed(anAction: AnAction, dataContext: DataContext, event: AnActionEvent?) {
-                // Track action in "before" callback because otherwise timestamp of the action can be wrong
-                // (e.g. commit action shows dialog and finishes only after the dialog is closed).
-                // Action id can be null e.g. on 'ctrl+o' action (class com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction).
                 val actionId = actionManager.getId(anAction) ?: return
                 trackerLog.append(captureIdeState(TrackerEvent.Type.Action, actionId))
+                if (event == null) {
+                    return
+                }
+                updateCurFileAndWriteToLog(dataContext, null)
             }
-            override fun beforeEditorTyping(c: Char, dataContext: DataContext) {}
-            override fun afterActionPerformed(action: AnAction, dataContext: DataContext, event: AnActionEvent?) {}
+
+            override fun beforeEditorTyping(c: Char, dataContext: DataContext) {
+                updateCurFileAndWriteToLog(dataContext, "PressKey")
+            }
+
+            override fun afterActionPerformed(action: AnAction, dataContext: DataContext, event: AnActionEvent?) {
+                if (event == null) {
+                    return
+                }
+                val actionId = actionManager.getId(action) ?: return
+                updateCurFileAndWriteToLog(dataContext, actionId)
+            }
         }, parentDisposable)
 
         // Use custom listener for VCS because listening to normal IDE actions
@@ -149,9 +158,11 @@ class ActivityTracker(
             override fun onVcsCommit() {
                 invokeOnEDT { trackerLog.append(captureIdeState(TrackerEvent.Type.VcsAction, "Commit")) }
             }
+
             override fun onVcsUpdate() {
                 invokeOnEDT { trackerLog.append(captureIdeState(TrackerEvent.Type.VcsAction, "Update")) }
             }
+
             override fun onVcsPush() {
                 invokeOnEDT { trackerLog.append(captureIdeState(TrackerEvent.Type.VcsAction, "Push")) }
             }
@@ -174,8 +185,8 @@ class ActivityTracker(
 
     private fun registerCompilationListener(disposable: Disposable, project: Project, listener: CompilationStatusListener) {
         project.messageBus
-            .connect(newDisposable(listOf(disposable, project)))
-            .subscribe(CompilerTopics.COMPILATION_STATUS, listener)
+                .connect(newDisposable(listOf(disposable, project)))
+                .subscribe(CompilerTopics.COMPILATION_STATUS, listener)
     }
 
     private fun captureIdeState(eventType: TrackerEvent.Type, originalEventData: String): TrackerEvent? {
@@ -193,7 +204,7 @@ class ActivityTracker(
 
             // this might also work: ApplicationManager.application.isActive(), ApplicationActivationListener
             val window = WindowManagerEx.getInstanceEx().mostRecentFocusedWindow
-                ?: return TrackerEvent.ideNotInFocus(time, userName, eventType, eventData)
+                    ?: return TrackerEvent.ideNotInFocus(time, userName, eventType, eventData)
 
             var ideHasFocus = window.isActive
             if (!ideHasFocus) {
@@ -215,9 +226,9 @@ class ActivityTracker(
 
             // Check for JDialog before EditorComponentImpl because dialog can belong to editor.
             val focusOwnerId = when {
-                findParentComponent<JDialog>(focusOwner) { it is JDialog } != null                         -> "Dialog"
+                findParentComponent<JDialog>(focusOwner) { it is JDialog } != null -> "Dialog"
                 findParentComponent<EditorComponentImpl>(focusOwner) { it is EditorComponentImpl } != null -> "Editor"
-                else                                                                                       -> {
+                else -> {
                     val toolWindowId = ToolWindowManager.getInstance(project)?.activeToolWindowId
                     toolWindowId ?: "Popup"
                 }
@@ -247,7 +258,7 @@ class ActivityTracker(
 
             val task = if (hasTaskManager(project)) {
                 TaskManager.getManager(project)?.activeTask?.presentableName
-                    ?: ChangeListManager.getInstance(project).defaultChangeList.name
+                        ?: ChangeListManager.getInstance(project).defaultChangeList.name
             } else {
                 ChangeListManager.getInstance(project).defaultChangeList.name
             }
@@ -281,43 +292,43 @@ class ActivityTracker(
     private fun haveCompilation() = isOnClasspath("com.intellij.openapi.compiler.CompilationStatusListener")
 
     private fun isOnClasspath(className: String) =
-        ActivityTracker::class.java.classLoader.getResource(className.replace(".", "/") + ".class") != null
+            ActivityTracker::class.java.classLoader.getResource(className.replace(".", "/") + ".class") != null
 
     private fun psiPathOf(psiElement: PsiElement?): String =
-        when (psiElement) {
-            null, is PsiFile          -> ""
-            is PsiAnonymousClass      -> {
-                val parentName = psiPathOf(psiElement.parent)
-                val name = "[${psiElement.baseClassType.className}]"
-                if (parentName.isEmpty()) name else "$parentName::$name"
+            when (psiElement) {
+                null, is PsiFile -> ""
+                is PsiAnonymousClass -> {
+                    val parentName = psiPathOf(psiElement.parent)
+                    val name = "[${psiElement.baseClassType.className}]"
+                    if (parentName.isEmpty()) name else "$parentName::$name"
+                }
+                is PsiMethod, is PsiClass -> {
+                    val parentName = psiPathOf(psiElement.parent)
+                    val name = (psiElement as PsiNamedElement).name ?: ""
+                    if (parentName.isEmpty()) name else "$parentName::$name"
+                }
+                else -> psiPathOf(psiElement.parent)
             }
-            is PsiMethod, is PsiClass -> {
-                val parentName = psiPathOf(psiElement.parent)
-                val name = (psiElement as PsiNamedElement).name ?: ""
-                if (parentName.isEmpty()) name else "$parentName::$name"
-            }
-            else                      -> psiPathOf(psiElement.parent)
-        }
 
     @Suppress("UNCHECKED_CAST")
     private fun <T> findPsiParent(element: PsiElement?, matches: (PsiElement) -> Boolean): T? = when {
-        element == null  -> null
+        element == null -> null
         matches(element) -> element as T?
-        else             -> findPsiParent(element.parent, matches)
+        else -> findPsiParent(element.parent, matches)
     }
 
     @Suppress("UNCHECKED_CAST")
     private fun <T> findParentComponent(component: Component?, matches: (Component) -> Boolean): T? = when {
-        component == null  -> null
+        component == null -> null
         matches(component) -> component as T?
-        else               -> findParentComponent(component.parent, matches)
+        else -> findParentComponent(component.parent, matches)
     }
 
     private fun currentEditorIn(project: Project): Editor? =
-        (FileEditorManagerEx.getInstance(project) as FileEditorManagerEx).selectedTextEditor
+            (FileEditorManagerEx.getInstance(project) as FileEditorManagerEx).selectedTextEditor
 
     private fun currentFileIn(project: Project): VirtualFile? =
-        (FileEditorManagerEx.getInstance(project) as FileEditorManagerEx).currentFile
+            (FileEditorManagerEx.getInstance(project) as FileEditorManagerEx).currentFile
 
     private fun currentPsiFileIn(project: Project): PsiFile? {
         return psiFile(currentFileIn(project), project)
@@ -328,12 +339,53 @@ class ActivityTracker(
         return PsiManager.getInstance(project).findFile(file)
     }
 
+    private fun updateCurFileAndWriteToLog(dataContext: DataContext,
+                                           action: String?) {
+        try {
+            val ideFocusManager = IdeFocusManager.getGlobalInstance()
+            val focusOwner = ideFocusManager.focusOwner
+            val window = WindowManagerEx.getInstanceEx().mostRecentFocusedWindow
+                    ?: return
+
+            var ideHasFocus = window.isActive
+            if (!ideHasFocus) {
+                val ideFrame = findParentComponent<IdeFrameImpl?>(focusOwner) { it is IdeFrameImpl }
+                ideHasFocus = ideFrame != null && ideFrame.isActive
+            }
+            if (!ideHasFocus) return
+
+            val project = ideFocusManager.lastFocusedFrame?.project ?: return
+            val editor = currentEditorIn(project) ?: return
+            val vFile = currentFileIn(project) ?: return
+
+            // val editor = dataContext.getData(PlatformDataKeys.EDITOR) ?: return
+            //val vFile = dataContext.getData(PlatformDataKeys.VIRTUAL_FILE) ?: return
+            val fileName = vFile.name
+            // val project = dataContext.getData(PlatformDataKeys.PROJECT) ?: return
+            val projectName = project.name
+            val old = curCode
+            curCode = editor.document.charsSequence.toString()
+            val params = HashMap<String, String>()
+            params["MOUSE_COLUMN"] = editor.caretModel.logicalPosition.line.toString()
+            params["MOUSE_LINE"] = editor.caretModel.logicalPosition.column.toString()
+            params["BACKGROUND_R"] = editor.colorsScheme.defaultBackground.red.toString()
+            params["BACKGROUND_G"] = editor.colorsScheme.defaultBackground.green.toString()
+            params["BACKGROUND_B"] = editor.colorsScheme.defaultBackground.blue.toString()
+            params["FONT_NAME"] = editor.colorsScheme.consoleFontName
+            params["FONT_SIZE"] = "16" //editor.colorsScheme.consoleFontSize.toString()
+            val diff = Diffs.of(old, curCode, action, fileName, projectName, params)
+            Logger.write(diff)
+        } catch (e: Throwable) {
+            println(e)
+        }
+    }
+
     data class Config(
-        val pollIdeState: Boolean,
-        val pollIdeStateMs: Long,
-        val trackIdeActions: Boolean,
-        val trackKeyboard: Boolean,
-        val trackMouse: Boolean,
-        val mouseMoveEventsThresholdMs: Long
+            val pollIdeState: Boolean,
+            val pollIdeStateMs: Long,
+            val trackIdeActions: Boolean,
+            val trackKeyboard: Boolean,
+            val trackMouse: Boolean,
+            val mouseMoveEventsThresholdMs: Long
     )
 }
